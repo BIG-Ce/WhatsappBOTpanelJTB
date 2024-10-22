@@ -5,9 +5,9 @@ global.domain = "https://srv.hamzz.com/" // Isi Domain mu, WEBSITE WAJIB ADA SSL
 global.apikey = 'ptlc_lZ0XehpbrC2rRinV7t1rU6qwTaeuSSi2XpCtKDH1jYV' // Isi Apikey Pterodactyl mu
 global.capikey = 'ptlc_lZ0XehpbrC2rRinV7t1rU6qwTaeuSSi2XpCtKDH1jYV' // Isi Apikey Pterodactyl mu
 global.creAtor = "62857085011429@s.whatsapp.net"
-global.owner = ['62857085011429']
-global.ownerNumber = ["62857085011429@s.whatsapp.net"]
-global.nomerOwner = "62857085011429"
+global.owner = ['2348068620970']
+global.ownerNumber = ["2348068620970@s.whatsapp.net"]
+global.nomerOwner = "2348068620970"
 global.namabotnya = 'Mijayanto'
 global.namaownernya = 'Madyaa'
 global.packname = 'Madyaa'
@@ -18,9 +18,9 @@ global.group = 'https://chat.whatsapp.com/'
 global.youtube = 'https://youtube.com/'
 global.website = 'https://www.google.com'
 global.github = 'https://github.com/Pann09'
-global.nomorowner = 'https://wa.me/62857085011429'
+global.nomorowner = 'https://wa.me/2348068620970'
 global.region = 'Indonesia'
-global.prefa = ['','!','.','#','-','•']
+global.prefa = ['.']
 global.krmd = 
 {
 success: '```Sukses!```',
